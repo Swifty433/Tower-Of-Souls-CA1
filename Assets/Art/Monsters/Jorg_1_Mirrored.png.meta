@@ -1,0 +1,2773 @@
+fileFormatVersion: 2
+guid: 7d41bd71d71fcf14092b00ac01c1a0e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3623838788140757755
+    second: Jorg_1_Mirrored_0
+  - first:
+      213: 5159700998250473139
+    second: Jorg_1_Mirrored_1
+  - first:
+      213: -4396095209210067044
+    second: Jorg_1_Mirrored_2
+  - first:
+      213: -1411407988748551435
+    second: Jorg_1_Mirrored_3
+  - first:
+      213: 4131188258777012777
+    second: Jorg_1_Mirrored_4
+  - first:
+      213: 1634458214523074982
+    second: Jorg_1_Mirrored_5
+  - first:
+      213: 3133047219349968264
+    second: Jorg_1_Mirrored_6
+  - first:
+      213: -4831455856317187454
+    second: Jorg_1_Mirrored_7
+  - first:
+      213: -5554944187601266854
+    second: Jorg_1_Mirrored_8
+  - first:
+      213: -4698985283903151860
+    second: Jorg_1_Mirrored_9
+  - first:
+      213: 634602139758966220
+    second: Jorg_1_Mirrored_10
+  - first:
+      213: 6741909254966447735
+    second: Jorg_1_Mirrored_11
+  - first:
+      213: 1335694113410060600
+    second: Jorg_1_Mirrored_12
+  - first:
+      213: 1036701169011753619
+    second: Jorg_1_Mirrored_13
+  - first:
+      213: 7999373786747234232
+    second: Jorg_1_Mirrored_14
+  - first:
+      213: -2549671843851110516
+    second: Jorg_1_Mirrored_15
+  - first:
+      213: 5509085843788281173
+    second: Jorg_1_Mirrored_16
+  - first:
+      213: -3765009751500324086
+    second: Jorg_1_Mirrored_17
+  - first:
+      213: -3574363400102524065
+    second: Jorg_1_Mirrored_18
+  - first:
+      213: 8688693657598164778
+    second: Jorg_1_Mirrored_19
+  - first:
+      213: -6158461615399218739
+    second: Jorg_1_Mirrored_20
+  - first:
+      213: 207901339344076221
+    second: Jorg_1_Mirrored_21
+  - first:
+      213: -8146291139089764214
+    second: Jorg_1_Mirrored_22
+  - first:
+      213: -2491159948510341897
+    second: Jorg_1_Mirrored_23
+  - first:
+      213: 6313842801882038817
+    second: Jorg_1_Mirrored_24
+  - first:
+      213: -7057089808539701626
+    second: Jorg_1_Mirrored_25
+  - first:
+      213: -6816144843137477974
+    second: Jorg_1_Mirrored_26
+  - first:
+      213: 8133237164597530765
+    second: Jorg_1_Mirrored_27
+  - first:
+      213: -6930206486171485770
+    second: Jorg_1_Mirrored_28
+  - first:
+      213: 268451602707740666
+    second: Jorg_1_Mirrored_29
+  - first:
+      213: 4040619423488499099
+    second: Jorg_1_Mirrored_30
+  - first:
+      213: -6805931994158349197
+    second: Jorg_1_Mirrored_31
+  - first:
+      213: 1708517527535888244
+    second: Jorg_1_Mirrored_32
+  - first:
+      213: 6368355565778749704
+    second: Jorg_1_Mirrored_33
+  - first:
+      213: -7154405448087251094
+    second: Jorg_1_Mirrored_34
+  - first:
+      213: -1096854041191439731
+    second: Jorg_1_Mirrored_35
+  - first:
+      213: 3136592768705192004
+    second: Jorg_1_Mirrored_36
+  - first:
+      213: 8506447550555230683
+    second: Jorg_1_Mirrored_37
+  - first:
+      213: -8847618148139544115
+    second: Jorg_1_Mirrored_38
+  - first:
+      213: -3571582892329862143
+    second: Jorg_1_Mirrored_39
+  - first:
+      213: -4932071058941429166
+    second: Jorg_1_Mirrored_40
+  - first:
+      213: -2568886008517931762
+    second: Jorg_1_Mirrored_41
+  - first:
+      213: 2252445046807583257
+    second: Jorg_1_Mirrored_42
+  - first:
+      213: 4305667641918785860
+    second: Jorg_1_Mirrored_43
+  - first:
+      213: -1876039538820154602
+    second: Jorg_1_Mirrored_44
+  - first:
+      213: -469046964953866072
+    second: Jorg_1_Mirrored_45
+  - first:
+      213: -736202873369473202
+    second: Jorg_1_Mirrored_46
+  - first:
+      213: 960995745500980226
+    second: Jorg_1_Mirrored_47
+  - first:
+      213: 531128960223703201
+    second: Jorg_1_Mirrored_48
+  - first:
+      213: 7019942435229134432
+    second: Jorg_1_Mirrored_49
+  - first:
+      213: 5534915165896826861
+    second: Jorg_1_Mirrored_50
+  - first:
+      213: 358895270184590039
+    second: Jorg_1_Mirrored_51
+  - first:
+      213: 6555457351525431453
+    second: Jorg_1_Mirrored_52
+  - first:
+      213: 8426704341364281831
+    second: Jorg_1_Mirrored_53
+  - first:
+      213: -3853415049288118922
+    second: Jorg_1_Mirrored_54
+  - first:
+      213: 8249691829494244624
+    second: Jorg_1_Mirrored_55
+  - first:
+      213: 3583184284829262931
+    second: Jorg_1_Mirrored_56
+  - first:
+      213: 2120789284987510248
+    second: Jorg_1_Mirrored_57
+  - first:
+      213: 731786117442745328
+    second: Jorg_1_Mirrored_58
+  - first:
+      213: 1007335352468071772
+    second: Jorg_1_Mirrored_59
+  - first:
+      213: 5751614166904492029
+    second: Jorg_1_Mirrored_60
+  - first:
+      213: 2337821070904686646
+    second: Jorg_1_Mirrored_61
+  - first:
+      213: 2111386739731282284
+    second: Jorg_1_Mirrored_62
+  - first:
+      213: 8496924774182338762
+    second: Jorg_1_Mirrored_63
+  - first:
+      213: 579262777865425596
+    second: Jorg_1_Mirrored_64
+  - first:
+      213: -5205208962123134740
+    second: Jorg_1_Mirrored_65
+  - first:
+      213: 9203157024289488122
+    second: Jorg_1_Mirrored_66
+  - first:
+      213: 6389456753948045303
+    second: Jorg_1_Mirrored_67
+  - first:
+      213: 8455670764885883910
+    second: Jorg_1_Mirrored_68
+  - first:
+      213: -2458041128912527960
+    second: Jorg_1_Mirrored_69
+  - first:
+      213: -7384662353128930141
+    second: Jorg_1_Mirrored_70
+  - first:
+      213: 5504122849551276021
+    second: Jorg_1_Mirrored_71
+  - first:
+      213: -6592857640995378523
+    second: Jorg_1_Mirrored_72
+  - first:
+      213: -7233071920154481229
+    second: Jorg_1_Mirrored_73
+  - first:
+      213: -7294569889776552561
+    second: Jorg_1_Mirrored_74
+  - first:
+      213: -4786175328622880997
+    second: Jorg_1_Mirrored_75
+  - first:
+      213: 840350377277029528
+    second: Jorg_1_Mirrored_76
+  - first:
+      213: -8145100608385630532
+    second: Jorg_1_Mirrored_77
+  - first:
+      213: -1933083224067730006
+    second: Jorg_1_Mirrored_78
+  - first:
+      213: 7998648554885755371
+    second: Jorg_1_Mirrored_79
+  - first:
+      213: -2886524483338559640
+    second: Jorg_1_Mirrored_80
+  - first:
+      213: 2465976252872928650
+    second: Jorg_1_Mirrored_81
+  - first:
+      213: -5097332901287984386
+    second: Jorg_1_Mirrored_82
+  - first:
+      213: 121126385051619511
+    second: Jorg_1_Mirrored_83
+  - first:
+      213: -6807898289364036874
+    second: Jorg_1_Mirrored_84
+  - first:
+      213: -8769300560374526659
+    second: Jorg_1_Mirrored_85
+  - first:
+      213: 1803609323333026383
+    second: Jorg_1_Mirrored_86
+  - first:
+      213: 6331790832161052600
+    second: Jorg_1_Mirrored_87
+  - first:
+      213: -6753521627936266046
+    second: Jorg_1_Mirrored_88
+  - first:
+      213: -1481311331600137938
+    second: Jorg_1_Mirrored_89
+  - first:
+      213: 7977526802063095154
+    second: Jorg_1_Mirrored_90
+  - first:
+      213: 2053747313310410540
+    second: Jorg_1_Mirrored_91
+  - first:
+      213: -3285585570712978201
+    second: Jorg_1_Mirrored_92
+  - first:
+      213: -5966406899504561023
+    second: Jorg_1_Mirrored_93
+  - first:
+      213: -6555431634569169535
+    second: Jorg_1_Mirrored_94
+  - first:
+      213: -8119858321750872068
+    second: Jorg_1_Mirrored_95
+  - first:
+      213: -649038829217914419
+    second: Jorg_1_Mirrored_96
+  - first:
+      213: 594916724939018878
+    second: Jorg_1_Mirrored_97
+  - first:
+      213: 5992105930252383254
+    second: Jorg_1_Mirrored_98
+  - first:
+      213: 6341042095814942736
+    second: Jorg_1_Mirrored_99
+  - first:
+      213: -3738925541307228841
+    second: Jorg_1_Mirrored_100
+  - first:
+      213: -535895810895881820
+    second: Jorg_1_Mirrored_101
+  - first:
+      213: 2590004052387320497
+    second: Jorg_1_Mirrored_102
+  - first:
+      213: -1986474235743503783
+    second: Jorg_1_Mirrored_103
+  - first:
+      213: -2714764161744149352
+    second: Jorg_1_Mirrored_104
+  - first:
+      213: 7076946232903188256
+    second: Jorg_1_Mirrored_105
+  - first:
+      213: -3790354585863615121
+    second: Jorg_1_Mirrored_106
+  - first:
+      213: -3657914216554518123
+    second: Jorg_1_Mirrored_107
+  - first:
+      213: 5092961015046990946
+    second: Jorg_1_Mirrored_108
+  - first:
+      213: 3362108697050854473
+    second: Jorg_1_Mirrored_109
+  - first:
+      213: 6965842645765562163
+    second: Jorg_1_Mirrored_110
+  - first:
+      213: 2751316674777175465
+    second: Jorg_1_Mirrored_111
+  - first:
+      213: 3529658596211495516
+    second: Jorg_1_Mirrored_112
+  - first:
+      213: 3077023102054571220
+    second: Jorg_1_Mirrored_113
+  - first:
+      213: 4381140637342957229
+    second: Jorg_1_Mirrored_114
+  - first:
+      213: 931230030901683470
+    second: Jorg_1_Mirrored_115
+  - first:
+      213: -8500184030424297906
+    second: Jorg_1_Mirrored_116
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d869572d985bdc0800000000000000
+      internalID: -3623838788140757755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6a2fb78b0fa9740800000000000000
+      internalID: 5159700998250473139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97cc30e2beedf2c0800000000000000
+      internalID: -4396095209210067044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa7e7589eba96ce0800000000000000
+      internalID: -1411407988748551435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a1ba855dde45930800000000000000
+      internalID: 4131188258777012777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9fddc1613cea610800000000000000
+      internalID: 1634458214523074982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88551eda8d1da7b20800000000000000
+      internalID: 3133047219349968264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28abb303f7833fcb0800000000000000
+      internalID: -4831455856317187454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57d7e651bfd8e2b0800000000000000
+      internalID: -5554944187601266854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c012a24d7c9d9ceb0800000000000000
+      internalID: -4698985283903151860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5390aa84f8ec800800000000000000
+      internalID: 634602139758966220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e813a4fb2109d50800000000000000
+      internalID: 6741909254966447735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831136628b6598210800000000000000
+      internalID: 1335694113410060600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3928d25783a136e00800000000000000
+      internalID: 1036701169011753619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7e3a8931c730f60800000000000000
+      internalID: 7999373786747234232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87707d77febd9cd0800000000000000
+      internalID: -2549671843851110516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5553224f264347c40800000000000000
+      internalID: 5509085843788281173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0301f1349fffbbc0800000000000000
+      internalID: -3765009751500324086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b4bb6ec6f456ec0800000000000000
+      internalID: -3574363400102524065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ff35fc8d0749870800000000000000
+      internalID: 8688693657598164778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1504b2acfb88aa0800000000000000
+      internalID: -6158461615399218739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd7ee7aa2d92e200800000000000000
+      internalID: 207901339344076221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8074a1be5f82fe80800000000000000
+      internalID: -8146291139089764214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f45c5eb93f9d6dd0800000000000000
+      internalID: -2491159948510341897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12206dd73964f9750800000000000000
+      internalID: 6313842801882038817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e26fd853e201e90800000000000000
+      internalID: -7057089808539701626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa21e2fe0603861a0800000000000000
+      internalID: -6816144843137477974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8057d50c101fd070800000000000000
+      internalID: 8133237164597530765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9f3ab2be5f2df90800000000000000
+      internalID: -6930206486171485770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af777c27f4bb9b300800000000000000
+      internalID: 268451602707740666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d539125f9231830800000000000000
+      internalID: 4040619423488499099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374c9b229e87c81a0800000000000000
+      internalID: -6805931994158349197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4772e41a3afd5b710800000000000000
+      internalID: 1708517527535888244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809cf9565a1f06850800000000000000
+      internalID: 6368355565778749704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67d3af862276bc90800000000000000
+      internalID: -7154405448087251094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8225589f0137c0f0800000000000000
+      internalID: -1096854041191439731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4406bb7318a678b20800000000000000
+      internalID: 3136592768705192004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd116576af8fc0670800000000000000
+      internalID: 8506447550555230683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1d7d3cb22f63580800000000000000
+      internalID: -8847618148139544115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cf0d058403f6ec0800000000000000
+      internalID: -3571582892329862143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25abfccc083cd8bb0800000000000000
+      internalID: -4932071058941429166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d41d929cb795cd0800000000000000
+      internalID: -2568886008517931762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91add0b06da424f10800000000000000
+      internalID: 2252445046807583257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449867d68edc0cb30800000000000000
+      internalID: 4305667641918785860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b7908aaf7f6f5e0800000000000000
+      internalID: -1876039538820154602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a023fe354c9d79f0800000000000000
+      internalID: -469046964953866072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fc032236b78c5f0800000000000000
+      internalID: -736202873369473202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2046f39f984265d00800000000000000
+      internalID: 960995745500980226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a07e0ca9f2fe5700800000000000000
+      internalID: 531128960223703201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ee58b9378db6160800000000000000
+      internalID: 7019942435229134432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defd335a408ffcc40800000000000000
+      internalID: 5534915165896826861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da9be2c85d0bf400800000000000000
+      internalID: 358895270184590039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9875e99ab9a9fa50800000000000000
+      internalID: 6555457351525431453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1924ea3faa1f470800000000000000
+      internalID: 8426704341364281831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d890fcd6be58ac0800000000000000
+      internalID: -3853415049288118922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015627b920bcc7270800000000000000
+      internalID: 8249691829494244624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354a20e5f170ab130800000000000000
+      internalID: 3583184284829262931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed92274e9e8e6d10800000000000000
+      internalID: 2120789284987510248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3bcbdb893d72a00800000000000000
+      internalID: 731786117442745328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556d8d7a26cafd00800000000000000
+      internalID: 1007335352468071772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff42778c96d1df40800000000000000
+      internalID: 5751614166904492029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63872bfa0eb917020800000000000000
+      internalID: 2337821070904686646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69372d9d072d4d10800000000000000
+      internalID: 2111386739731282284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0ca5040142be570800000000000000
+      internalID: 8496924774182338762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2564a6d64f90800800000000000000
+      internalID: 579262777865425596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce888fef60263c7b0800000000000000
+      internalID: -5205208962123134740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc7aec9d8e28bf70800000000000000
+      internalID: 9203157024289488122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff2bce9019eba850800000000000000
+      internalID: 6389456753948045303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cbda6b2c3985570800000000000000
+      internalID: 8455670764885883910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad5ed3dd9843edd0800000000000000
+      internalID: -2458041128912527960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4cc8727b8648990800000000000000
+      internalID: -7384662353128930141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f75d9fc192926c40800000000000000
+      internalID: 5504122849551276021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa20cde7e67184a0800000000000000
+      internalID: -6592857640995378523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bde65c3967fe9b90800000000000000
+      internalID: -7233071920154481229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85bb92655b74ca90800000000000000
+      internalID: -7294569889776552561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17d1b895e6149db0800000000000000
+      internalID: -4786175328622880997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c767c373689ab00800000000000000
+      internalID: 840350377277029528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe3b59b62ac6fe80800000000000000
+      internalID: -8145100608385630532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa51d24bc0f4c25e0800000000000000
+      internalID: -1933083224067730006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be138256b78e00f60800000000000000
+      internalID: 7998648554885755371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f132f964101f7d0800000000000000
+      internalID: -2886524483338559640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d2a013658e83220800000000000000
+      internalID: 2465976252872928650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef281dcabb2a249b0800000000000000
+      internalID: -5097332901287984386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0dde13ec35ea100800000000000000
+      internalID: 121126385051619511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2977b539c7581a0800000000000000
+      internalID: -6807898289364036874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d0e322a9f2d4680800000000000000
+      internalID: -8769300560374526659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4209d6af15b70910800000000000000
+      internalID: 1803609323333026383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7d80fe63a0fd750800000000000000
+      internalID: 6331790832161052600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e0ff6cdba642a0800000000000000
+      internalID: -6753521627936266046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2186363133517be0800000000000000
+      internalID: -1481311331600137938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275f0271c5ed5be60800000000000000
+      internalID: 7977526802063095154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27a74cdc40608c10800000000000000
+      internalID: 2053747313310410540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecf08ac4514762d0800000000000000
+      internalID: -3285585570712978201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18447994980133da0800000000000000
+      internalID: -5966406899504561023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185752819ad6605a0800000000000000
+      internalID: -6555431634569169535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff2a8190e7705f80800000000000000
+      internalID: -8119858321750872068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1e703af962ef6f0800000000000000
+      internalID: -649038829217914419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72ddecfb91914800800000000000000
+      internalID: 594916724939018878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6147435989c382350800000000000000
+      internalID: 5992105930252383254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01029da9038eff750800000000000000
+      internalID: 6341042095814942736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d5fb4a70bac1cc0800000000000000
+      internalID: -3738925541307228841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a95eea699d1098f0800000000000000
+      internalID: -535895810895881820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b25e5596fa81f320800000000000000
+      internalID: 2590004052387320497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95afa071530ae64e0800000000000000
+      internalID: -1986474235743503783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jorg_1_Mirrored_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894674ad068335ad0800000000000000
+      internalID: -2714764161744149352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 32c0958bf0826974d96da549c217b7dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jorg_1_Mirrored_0: -3623838788140757755
+      Jorg_1_Mirrored_1: 5159700998250473139
+      Jorg_1_Mirrored_10: 634602139758966220
+      Jorg_1_Mirrored_100: -3738925541307228841
+      Jorg_1_Mirrored_101: -535895810895881820
+      Jorg_1_Mirrored_102: 2590004052387320497
+      Jorg_1_Mirrored_103: -1986474235743503783
+      Jorg_1_Mirrored_104: -2714764161744149352
+      Jorg_1_Mirrored_11: 6741909254966447735
+      Jorg_1_Mirrored_12: 1335694113410060600
+      Jorg_1_Mirrored_13: 1036701169011753619
+      Jorg_1_Mirrored_14: 7999373786747234232
+      Jorg_1_Mirrored_15: -2549671843851110516
+      Jorg_1_Mirrored_16: 5509085843788281173
+      Jorg_1_Mirrored_17: -3765009751500324086
+      Jorg_1_Mirrored_18: -3574363400102524065
+      Jorg_1_Mirrored_19: 8688693657598164778
+      Jorg_1_Mirrored_2: -4396095209210067044
+      Jorg_1_Mirrored_20: -6158461615399218739
+      Jorg_1_Mirrored_21: 207901339344076221
+      Jorg_1_Mirrored_22: -8146291139089764214
+      Jorg_1_Mirrored_23: -2491159948510341897
+      Jorg_1_Mirrored_24: 6313842801882038817
+      Jorg_1_Mirrored_25: -7057089808539701626
+      Jorg_1_Mirrored_26: -6816144843137477974
+      Jorg_1_Mirrored_27: 8133237164597530765
+      Jorg_1_Mirrored_28: -6930206486171485770
+      Jorg_1_Mirrored_29: 268451602707740666
+      Jorg_1_Mirrored_3: -1411407988748551435
+      Jorg_1_Mirrored_30: 4040619423488499099
+      Jorg_1_Mirrored_31: -6805931994158349197
+      Jorg_1_Mirrored_32: 1708517527535888244
+      Jorg_1_Mirrored_33: 6368355565778749704
+      Jorg_1_Mirrored_34: -7154405448087251094
+      Jorg_1_Mirrored_35: -1096854041191439731
+      Jorg_1_Mirrored_36: 3136592768705192004
+      Jorg_1_Mirrored_37: 8506447550555230683
+      Jorg_1_Mirrored_38: -8847618148139544115
+      Jorg_1_Mirrored_39: -3571582892329862143
+      Jorg_1_Mirrored_4: 4131188258777012777
+      Jorg_1_Mirrored_40: -4932071058941429166
+      Jorg_1_Mirrored_41: -2568886008517931762
+      Jorg_1_Mirrored_42: 2252445046807583257
+      Jorg_1_Mirrored_43: 4305667641918785860
+      Jorg_1_Mirrored_44: -1876039538820154602
+      Jorg_1_Mirrored_45: -469046964953866072
+      Jorg_1_Mirrored_46: -736202873369473202
+      Jorg_1_Mirrored_47: 960995745500980226
+      Jorg_1_Mirrored_48: 531128960223703201
+      Jorg_1_Mirrored_49: 7019942435229134432
+      Jorg_1_Mirrored_5: 1634458214523074982
+      Jorg_1_Mirrored_50: 5534915165896826861
+      Jorg_1_Mirrored_51: 358895270184590039
+      Jorg_1_Mirrored_52: 6555457351525431453
+      Jorg_1_Mirrored_53: 8426704341364281831
+      Jorg_1_Mirrored_54: -3853415049288118922
+      Jorg_1_Mirrored_55: 8249691829494244624
+      Jorg_1_Mirrored_56: 3583184284829262931
+      Jorg_1_Mirrored_57: 2120789284987510248
+      Jorg_1_Mirrored_58: 731786117442745328
+      Jorg_1_Mirrored_59: 1007335352468071772
+      Jorg_1_Mirrored_6: 3133047219349968264
+      Jorg_1_Mirrored_60: 5751614166904492029
+      Jorg_1_Mirrored_61: 2337821070904686646
+      Jorg_1_Mirrored_62: 2111386739731282284
+      Jorg_1_Mirrored_63: 8496924774182338762
+      Jorg_1_Mirrored_64: 579262777865425596
+      Jorg_1_Mirrored_65: -5205208962123134740
+      Jorg_1_Mirrored_66: 9203157024289488122
+      Jorg_1_Mirrored_67: 6389456753948045303
+      Jorg_1_Mirrored_68: 8455670764885883910
+      Jorg_1_Mirrored_69: -2458041128912527960
+      Jorg_1_Mirrored_7: -4831455856317187454
+      Jorg_1_Mirrored_70: -7384662353128930141
+      Jorg_1_Mirrored_71: 5504122849551276021
+      Jorg_1_Mirrored_72: -6592857640995378523
+      Jorg_1_Mirrored_73: -7233071920154481229
+      Jorg_1_Mirrored_74: -7294569889776552561
+      Jorg_1_Mirrored_75: -4786175328622880997
+      Jorg_1_Mirrored_76: 840350377277029528
+      Jorg_1_Mirrored_77: -8145100608385630532
+      Jorg_1_Mirrored_78: -1933083224067730006
+      Jorg_1_Mirrored_79: 7998648554885755371
+      Jorg_1_Mirrored_8: -5554944187601266854
+      Jorg_1_Mirrored_80: -2886524483338559640
+      Jorg_1_Mirrored_81: 2465976252872928650
+      Jorg_1_Mirrored_82: -5097332901287984386
+      Jorg_1_Mirrored_83: 121126385051619511
+      Jorg_1_Mirrored_84: -6807898289364036874
+      Jorg_1_Mirrored_85: -8769300560374526659
+      Jorg_1_Mirrored_86: 1803609323333026383
+      Jorg_1_Mirrored_87: 6331790832161052600
+      Jorg_1_Mirrored_88: -6753521627936266046
+      Jorg_1_Mirrored_89: -1481311331600137938
+      Jorg_1_Mirrored_9: -4698985283903151860
+      Jorg_1_Mirrored_90: 7977526802063095154
+      Jorg_1_Mirrored_91: 2053747313310410540
+      Jorg_1_Mirrored_92: -3285585570712978201
+      Jorg_1_Mirrored_93: -5966406899504561023
+      Jorg_1_Mirrored_94: -6555431634569169535
+      Jorg_1_Mirrored_95: -8119858321750872068
+      Jorg_1_Mirrored_96: -649038829217914419
+      Jorg_1_Mirrored_97: 594916724939018878
+      Jorg_1_Mirrored_98: 5992105930252383254
+      Jorg_1_Mirrored_99: 6341042095814942736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
