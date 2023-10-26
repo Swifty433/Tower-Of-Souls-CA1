@@ -11,6 +11,9 @@ refrences:
 - https://www.w3schools.com/cpp/default.asp
 - https://chiecola.itch.io/weird-woods-flora-ap1
 - https://github.com/kiyama14/tutorial-art
+- https://www.youtube.com/watch?v=2xaQYZW6
+- https://www.youtube.com/watch?v=Ck9nXGaEDZY
+- https://cainos.itch.io/pixel-art-top-down-basic
 
 Video Presentation:
 - https://www.youtube.com/watch?v=_APFUbY-JLY
